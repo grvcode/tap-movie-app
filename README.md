@@ -20,9 +20,9 @@
     
     npm install
     
-3.  Enter your API Port in in  `.env`
+3.  Enter your API Port in  `.env`
     ``
-    const PG_URI = 'URL';
+    PG_URI = 'URL';
     ``
 
 
@@ -33,7 +33,7 @@
   ![enter image  here](./github/1.png)
 
   ![enter image  here](./github/2.png)
-  
+
   ![enter image  here](./github/3.png)
 
 
