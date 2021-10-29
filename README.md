@@ -32,8 +32,6 @@
 
   ![enter image  here](./github/1.png)
 
-  ![enter image  here](./github/2.png)
-
   ![enter image  here](./github/3.png)
 
 
