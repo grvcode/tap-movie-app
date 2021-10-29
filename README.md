@@ -38,3 +38,16 @@
 
 
 
+## Resources Used
+-   [Create React App ](https://create-react-app.dev/docs/adding-bootstrap)
+-   [React Bootstrap ](https://react-bootstrap.netlify.app/components/buttons/#buttons)
+-   [NPM ](https://docs.npmjs.com/cli/v7/commands/npm-install)
+-   [Node ](https://nodejs.org/dist/latest-v16.x/docs/api/)
+-   [Sequelize](https://sequelize.org/)
+
+
+
+
+
+
+
