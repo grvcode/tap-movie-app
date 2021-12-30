@@ -35,10 +35,7 @@
   ![enter image  here](./github/3.png)
 
 
-
-
-
-## Resources Used
+## All  Resources    Used
 -   [Create React App ](https://create-react-app.dev/docs/adding-bootstrap)
 -   [React Bootstrap ](https://react-bootstrap.netlify.app/components/buttons/#buttons)
 -   [NPM ](https://docs.npmjs.com/cli/v7/commands/npm-install)
